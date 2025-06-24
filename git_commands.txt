@@ -1,0 +1,72 @@
+ls
+   3 ls -l
+   4 cd
+   5 ls -l
+   6 Get-ChildItem -LiteralPath "C:\Users\LEPTOP\Documents"
+   7 ls -l .
+   8 rm testing.py
+   9 ls
+  10 git init
+  11 ls -a
+  12 dir
+  13 ls
+  14 git init
+  15 ls -a
+  16 git status
+  17 ls
+  18 dir
+  19 git status
+  20 git add testing.py
+  21 git status
+  22 git rm --cached <testing.py>
+  23 git rm --cached testing.py
+  24 git status
+  25 git add .
+  26 git status
+  27 git commit -m "added testing files"
+  28 git config --global user.email "as9340332929@gmail.com"
+  29 git config --global user.name "aditya"
+  30 git commit -m "added testing files"
+  31 git commit -m "added testing files"
+  32 git add testing.py
+  33 git status
+  34 git rm --cached <testing.py>
+  35 git add .
+  36 git status
+  37 git commit -m "added testing files"
+  38 ls
+  39 git status
+  40 git status
+  41 git add testing.py
+  42 git status
+  43 ls
+  44 dir
+  45 ls -a
+  46 git init
+  47 git status
+  48 git status
+  49 git init
+  50 git status
+  51 ls
+  52 git rm --cached testing.py
+  53 ls
+  54 ls
+  55 git status
+  56 ls
+  57 git status
+  58 git add testing.py
+  59 ls
+  60 git status
+  61 git rm --cached testing.py
+  62 git status
+  63 git add .
+  64 git status
+  65 git commit -m "added testing files"
+  66 git status
+  67 rm testing.py
+  68 git status
+  69 git restore testing.py
+  70 git status
+  71 ls
+  72 git status
+  73 history
